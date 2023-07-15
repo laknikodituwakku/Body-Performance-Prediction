@@ -2,6 +2,11 @@
 
 This repository contains a machine learning model developed to predict an individual's performance class based on their physical characteristics and performance on physical tests using the Body Performance dataset. The model was developed using Python and utilizes various open-source libraries such as pandas, numpy, and scikit-learn.
 
+# Group Members
+Lakni Kodituwakku (Me)
+Manul Wickramadinghe
+Ravindu Nishal
+
 # Dataset
 The Body Performance dataset consists of 13393 observations and 12 variables, including age, gender, body fat percentage, height, weight, blood pressure, grip strength, flexibility, sit-ups, broad jump, and performance class (A, B, C, or D). The dataset was obtained from Kaggle (https://www.kaggle.com/datasets/kukuroo3/body-performance-data).
 
